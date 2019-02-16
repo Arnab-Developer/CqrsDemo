@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CqrsDemo.Web.Application.Commands
 {
-    public class CreateCentreCommandHandler : /*ICreateCentreCommandHandler,*/ IRequestHandler<CreateCentreCommand, bool>
+    public class CreateCentreCommandHandler : IRequestHandler<CreateCentreCommand, bool>
     {
         private ICentreRepository _repository;
 

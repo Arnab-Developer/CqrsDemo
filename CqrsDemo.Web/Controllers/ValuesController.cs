@@ -15,11 +15,8 @@ namespace CqrsDemo.Web.Controllers
     {
         private IMediator _mediator;
 
-        //private ICreateCentreCommandHandler _handler;
-
-        public ValuesController(/*ICreateCentreCommandHandler handler*/IMediator mediator)
+        public ValuesController(IMediator mediator)
         {
-            //_handler = handler;
             _mediator = mediator;
         }
 
@@ -35,7 +32,6 @@ namespace CqrsDemo.Web.Controllers
             
             var command = new CreateCentreCommand(1, "centre1", "India", "Odisa", "city1", cands);
 
-            //_handler.Handle(command);
             var r = _mediator.Send(command);
 
             return new string[] { "value1", "value2" };
