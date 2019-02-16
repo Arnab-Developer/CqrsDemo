@@ -1,0 +1,12 @@
+C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Infrustructure\bin\Debug\netstandard2.0\CqrsDemo.Infrustructure.deps.json
+C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Infrustructure\bin\Debug\netstandard2.0\CqrsDemo.Infrustructure.dll
+C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Infrustructure\bin\Debug\netstandard2.0\CqrsDemo.Infrustructure.pdb
+C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Infrustructure\obj\Debug\netstandard2.0\CqrsDemo.Infrustructure.csprojAssemblyReference.cache
+C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Infrustructure\obj\Debug\netstandard2.0\CqrsDemo.Infrustructure.csproj.CoreCompileInputs.cache
+C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Infrustructure\obj\Debug\netstandard2.0\CqrsDemo.Infrustructure.AssemblyInfoInputs.cache
+C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Infrustructure\obj\Debug\netstandard2.0\CqrsDemo.Infrustructure.AssemblyInfo.cs
+C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Infrustructure\obj\Debug\netstandard2.0\CqrsDemo.Infrustructure.dll
+C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Infrustructure\obj\Debug\netstandard2.0\CqrsDemo.Infrustructure.pdb
+C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Infrustructure\bin\Debug\netstandard2.0\CqrsDemo.Domain.dll
+C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Infrustructure\bin\Debug\netstandard2.0\CqrsDemo.Domain.pdb
+C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Infrustructure\obj\Debug\netstandard2.0\CqrsDemo.Infrustructure.csproj.CopyComplete
