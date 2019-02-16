@@ -1,9 +1,0 @@
-C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Domain\bin\Debug\netstandard2.0\CqrsDemo.Domain.deps.json
-C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Domain\bin\Debug\netstandard2.0\CqrsDemo.Domain.dll
-C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Domain\bin\Debug\netstandard2.0\CqrsDemo.Domain.pdb
-C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Domain\obj\Debug\netstandard2.0\CqrsDemo.Domain.csprojAssemblyReference.cache
-C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Domain\obj\Debug\netstandard2.0\CqrsDemo.Domain.csproj.CoreCompileInputs.cache
-C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Domain\obj\Debug\netstandard2.0\CqrsDemo.Domain.AssemblyInfoInputs.cache
-C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Domain\obj\Debug\netstandard2.0\CqrsDemo.Domain.AssemblyInfo.cs
-C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Domain\obj\Debug\netstandard2.0\CqrsDemo.Domain.dll
-C:\Users\Arnab\MyProjects\CqrsDemo\CqrsDemo.Domain\obj\Debug\netstandard2.0\CqrsDemo.Domain.pdb
